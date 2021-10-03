@@ -2,6 +2,8 @@
 
 # GoldenEye
 
+**ONE OF THE BEST DDOS TOOL**
+
 GoldenEye is a Python 3 app for SECURITY TESTING PURPOSES ONLY!
 
 GoldenEye is an HTTP DoS Test Tool.
